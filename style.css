@@ -1,0 +1,17 @@
+.aliu{
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url("img/barner.jpg");
+                  color: white;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center;
+                  
+}
+
+.oladipupo{
+    color: white;
+    
+}
+.tolu{
+    margin-top: 100px;
+}
